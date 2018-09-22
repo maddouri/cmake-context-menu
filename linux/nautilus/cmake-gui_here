@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+FOLDER_PATH=$(sed 's|file://||' <<< "${NAUTILUS_SCRIPT_CURRENT_URI}")
+
+'cmake-gui' "-H${FOLDER_PATH}" "-B${FOLDER_PATH}/build"
