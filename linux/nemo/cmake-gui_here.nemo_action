@@ -98,7 +98,7 @@ Extensions=any;
 #
 # Optional - by default this is false
 
-EscapeSpaces=true
+EscapeSpaces=false
 
 # Run in terminal - set to true to execute the Exec line in a spawned terminal window.
 #
