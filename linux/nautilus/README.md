@@ -19,7 +19,7 @@
 
 ## Uninstall
 
-Remove `cmake-gui_here` from its installation folder
+1. Remove `cmake-gui_here` from its installation folder
 
 ## Credit
 

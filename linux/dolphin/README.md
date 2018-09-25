@@ -25,7 +25,7 @@
 
 ## Uninstall
 
-Remove `cmake-gui_here.desktop` from its installation folder
+1. Remove `cmake-gui_here.desktop` from its installation folder
 
 ## Credit
 
