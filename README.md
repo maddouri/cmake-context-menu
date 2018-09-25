@@ -5,8 +5,10 @@ A collection of scripts that add context menu items for launching CMake from the
 # Supported File Managers
 
 * Linux
-  * Nemo
+  * Dolphin
   * Nautilus
+  * Nemo
+  * Thunar
 * Windows
   * Windows File Explorer
 
