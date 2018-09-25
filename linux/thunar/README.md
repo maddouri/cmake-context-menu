@@ -1,4 +1,4 @@
-# CMake GUI Here for Nemo
+# CMake GUI Here for Thunar
 
 ## Install
 
