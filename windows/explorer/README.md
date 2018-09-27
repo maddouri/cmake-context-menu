@@ -1,5 +1,7 @@
 # CMake GUI Here for the Windows File Explorer
 
+![](screenshot.png)
+
 ## Install
 
 1. Replace the following string in `add_cmake-gui_here.reg`

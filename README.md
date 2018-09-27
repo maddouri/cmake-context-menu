@@ -2,6 +2,18 @@
 
 A collection of scripts that add context menu items for launching CMake from the OS file manager.
 
+<table style="width:100%">
+  <tr>
+    <td style="text-align:left"><img src="windows/explorer/screenshot.png"/></td>
+    <td style="text-align:right"><img src="linux/nemo/screenshot.png"/></td>
+  </tr>
+</table>
+
+# Features
+
+* Launches CMake GUI from the currend folder's context menu
+* Automatically sets the source and build directories
+
 # Supported File Managers
 
 * Linux

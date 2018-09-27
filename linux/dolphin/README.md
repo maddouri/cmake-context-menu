@@ -1,5 +1,7 @@
 # CMake GUI Here for Dolphin
 
+![](screenshot.png)
+
 ## Install
 
 1. Make sure that `cmake-gui` is in the `PATH`. If not, you must edit the following line in `cmake-gui_here.desktop`

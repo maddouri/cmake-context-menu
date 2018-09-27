@@ -1,5 +1,7 @@
 # CMake GUI Here for Thunar
 
+![](screenshot.png)
+
 ## Install
 
 1. Add the following to `~/.config/Thunar/uca.xml`

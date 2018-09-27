@@ -1,5 +1,7 @@
 # CMake GUI Here for Nemo
 
+![](screenshot.png)
+
 ## Install
 
 1. Make sure that `cmake-gui` is in the `PATH`.
