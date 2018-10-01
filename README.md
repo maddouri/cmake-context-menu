@@ -24,7 +24,7 @@ _(click on the file manager's name to go to the instructions)_
   * [Nemo](linux/nemo/README.md)
   * [Thunar](linux/thunar/README.md)
 * [Windows](windows)
-  * [Windows File Explorer](linux/explorer/README.md)
+  * [Windows File Explorer](windows/explorer/README.md)
 
 # Contributing
 
