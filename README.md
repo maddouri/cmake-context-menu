@@ -11,7 +11,7 @@ A collection of scripts that add context menu items for launching CMake from the
 
 # Features
 
-* Launches CMake GUI from the currend folder's context menu
+* Launches CMake GUI from the current folder's context menu
 * Automatically sets the source and build directories
 
 # Supported File Managers
