@@ -16,13 +16,15 @@ A collection of scripts that add context menu items for launching CMake from the
 
 # Supported File Managers
 
-* Linux
-  * Dolphin
-  * Nautilus
-  * Nemo
-  * Thunar
-* Windows
-  * Windows File Explorer
+_(click on the file manager's name to go to the instructions)_
+
+* [Linux](linux)
+  * [Dolphin](linux/dolphin/README.md)
+  * [Nautilus](linux/nautilus/README.md)
+  * [Nemo](linux/nemo/README.md)
+  * [Thunar](linux/thunar/README.md)
+* [Windows](windows)
+  * [Windows File Explorer](linux/explorer/README.md)
 
 # Contributing
 
