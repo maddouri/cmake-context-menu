@@ -4,7 +4,7 @@
 
 ## Install
 
-1. Replace the following string in `add_cmake-gui_here.reg`
+1. Replace the following string in [`add_cmake-gui_here.reg`](add_cmake-gui_here.reg)
 
     ```
     C:\\Program Files\\CMake\\bin\\cmake-gui.exe
@@ -21,7 +21,7 @@
 
 ## Uninstall
 
-1. Double-click on `remove_cmake-gui_here.reg`
+1. Double-click on [`remove_cmake-gui_here.reg`](remove_cmake-gui_here.reg)
 
 ## Credit
 

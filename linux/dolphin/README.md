@@ -4,7 +4,7 @@
 
 ## Install
 
-1. Make sure that `cmake-gui` is in the `PATH`. If not, you must edit the following line in `cmake-gui_here.desktop`
+1. Make sure that `cmake-gui` is in the `PATH`. If not, you must edit the following line in [`cmake-gui_here.desktop`](cmake-gui_here.desktop)
 
     ```
     Exec=cmake-gui "-H%f" "-B%f/build"
@@ -27,7 +27,7 @@
 
 ## Uninstall
 
-1. Remove `cmake-gui_here.desktop` from its installation folder
+1. Remove [`cmake-gui_here.desktop`](cmake-gui_here.desktop) from its installation folder
 
 ## Credit
 

@@ -5,7 +5,7 @@
 ## Install
 
 1. Make sure that `cmake-gui` is in the `PATH`.
-If not, you must edit the following line in `cmake-gui_here.nemo_action`
+If not, you must edit the following line in [`cmake-gui_here.nemo_action`](cmake-gui_here.nemo_action)
 
     ```
     Exec='cmake-gui' '-H%P' '-B%P/build'
@@ -24,7 +24,7 @@ or     `/usr/share/nemo/actions`     (system-wide installation)
 
 ## Uninstall
 
-1. Remove `cmake-gui_here.nemo_action` from its installation folder
+1. Remove [`cmake-gui_here.nemo_action`](cmake-gui_here.nemo_action) from its installation folder
 
 ## Credit
 
