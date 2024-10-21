@@ -2,4 +2,4 @@
 
 FOLDER_PATH=$(sed 's|file://||' <<< "${NAUTILUS_SCRIPT_CURRENT_URI}")
 
-'cmake-gui' "-H${FOLDER_PATH}" "-B${FOLDER_PATH}/build"
+'cmake-gui' "-S${FOLDER_PATH}" "-B${FOLDER_PATH}/build"

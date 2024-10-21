@@ -6,6 +6,6 @@ Type=Service
 X-KDE-Priority=TopLevel
 
 [Desktop Action CMakeGUIHere]
-Exec=cmake-gui "-H%f" "-B%f/build"
+Exec=cmake-gui "-S%f" "-B%f/build"
 Icon=
 Name=CMake GUI Here

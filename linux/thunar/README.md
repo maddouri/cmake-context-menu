@@ -13,7 +13,7 @@
         <!-- You might need to change this value -->
         <unique-id>1537910568312016-8</unique-id>
         <!-- Replace 'cmake-gui' with the path to cmake-gui if necessary -->
-        <command>cmake-gui &quot;-H$(echo %f)&quot; &quot;-B$(echo %f)/build&quot;</command>
+        <command>cmake-gui &quot;-S$(echo %f)&quot; &quot;-B$(echo %f)/build&quot;</command>
         <description></description>
         <patterns>*</patterns>
         <startup-notify/>

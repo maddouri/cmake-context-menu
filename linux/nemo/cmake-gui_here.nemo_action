@@ -36,7 +36,7 @@ Comment=Starts CMake GUI with "<current directory>" as the source directory and 
 # What to run.  Enclose in < > to run an executable that resides in the actions folder.
 # **** REQUIRED ****
 #Exec=gedit %F
-Exec='cmake-gui' '-H%P' '-B%P/build'
+Exec='cmake-gui' '-S%P' '-B%P/build'
 
 # Icon name to use in the menu - must be a theme icon name
 #Icon-Name=folder
